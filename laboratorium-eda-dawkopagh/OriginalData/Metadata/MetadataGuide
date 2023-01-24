@@ -1,0 +1,5 @@
+Kolumny: Dni od zakupu, Marka, Wiek kupującego, Płeć kupującego, Ocena.
+
+Dane zebrane dla województwa Pomorskiego.
+
+Przy obróbce danych zostało odflitrowane rekordy z brakującą informacją na temat płci klienta.

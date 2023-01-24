@@ -1,0 +1,22 @@
+Kolumna 1 - zapis w postaci MX000017004YYYYMMIIII
+MX000017004 - kod stacji pomiarowej
+YYYY - rok dokonania pomiarów
+MM - miesiąc dokonania pomiarów 
+IIII - rodzaj pomiaru który jest zapisany w wierszu
+Gdzie: 
+TMAX - maksymalna temperatura w ciągu dnia wyrażona w stopniach Celsjusza z dokładnością do części dziesiętnych
+TMIN - minimalna temperatura w ciągu dnia wyrażona w stopniach Celsjusza z dokładnością do części dziesiętnych
+PRCP - opady
+
+
+Kolumny 2-32 - pomiary parametrów w kolejnych dniach miesiąca, przedstawiany pomiar zależy od wartości IIII w kolumnie 1
+
+
+Oznaczenia specjalne:
+9999 - brak danych
+I - zbiór międzynarodowy(dane spoza USA otrzymane za pomocą kontaków osobistych)
+S - Globalne podsumowanie dnia (NCDC DSI-9618)
+
+
+UWAGA: wartości „S” pochodzą z godzinowych raportów synoptycznych wymienianych w Globalnym Systemie Telekomunikacyjnym (GTS).
+Uzyskane w ten sposób dzienne wartości mogą znacznie różnić się od „prawdziwych” danych dziennych.

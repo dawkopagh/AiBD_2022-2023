@@ -1,0 +1,29 @@
+# Data appendix
+All files from /AnalysisData/ are described here.
+Wszystkie pliki z /AnalysisData/ są opisane tutaj
+
+##  10_POMORSKIE.csv
+Plik zawiera wyniki oceny odkurzaczy w jadnej z sieci sklepów z danego województwa oraz dane kupujących. Zawiera informacje o marce oraz ile dni upłynęło od transakcji.
+
+**Szczegóły konwersji pliku, odfiltrowanie garbage data** jest dostępne w **/CommandFiles/lab4.ipynb**
+
+## Age_groups.png
+
+Ilość klientów w danym przedziale wiekowym z podziałem na płeć.
+
+## Brand_by_sex.png
+
+Ilość transakcji z uwzlęgnieniem jaka marka odkurzacza została zakupiona przez jaką płeć.
+
+## Days_elapsed.png
+
+Wykres zawierający informację ile transakcji zostało zawartych w przedziale dni licząc od dnia zebrania danych.
+
+## Score_by_brand.png
+
+Liczba ocen wystawionych przez klienta z uwzględnieniem marki odkurzacza.
+
+## Score_groups.png
+
+Wykres przedstawiający oceny klientów w przedziałach 0-5 z krokiem 1
+
